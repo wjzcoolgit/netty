@@ -16,6 +16,7 @@
 package io.netty.channel;
 
 /**
+ * Channel 工厂接口，用于创建 Channel 对象
  * Creates a new {@link Channel}.
  */
 @SuppressWarnings({ "ClassNameSameAsAncestorName", "deprecation" })
